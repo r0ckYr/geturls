@@ -1,7 +1,18 @@
 # geturls
-getallurls (gau) fetches known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl for any given domain. Inspired by Tomnomnom's waybackurls.
+geturls.py fetches known URLs from AlienVault, Wayback Machine, Common Crawl, and Virustotal for any given domain. Inspired by Tomnomnom's waybackurls and Corben's getallurls (gau).
 
 **Usage:**
 ```
 python3 geturls.py <url>
 ```
+
+**Installation**
+```
+git clone https://github.com/r0ckYr/geturls.git
+cd geturls
+chmod +x geturls.py
+```
+
+**Todo**
+1. Add user options
+2. Improve error handling
