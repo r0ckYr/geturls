@@ -1,5 +1,5 @@
 # geturls
-geturls.py fetches known URLs from AlienVault, Wayback Machine, Common Crawl, and Virustotal for any given domain. Inspired by Tomnomnom's waybackurls and Corben's getallurls (gau).
+fetches known URLs from AlienVault, Wayback Machine, Common Crawl, and Virustotal for any given domain. Inspired by Tomnomnom's waybackurls and Corben's getallurls (gau).
 
 It fetches urls form all four sources, so you don't need to run both tools.
 
