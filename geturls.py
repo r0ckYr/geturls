@@ -6,10 +6,10 @@ import os
 import concurrent.futures
 import re
 #added packages
-import alienvault
-import virustotal
-import commoncrawl
-import waybackmachine
+import urls/alienvault
+import urls/virustotal
+import urls/commoncrawl
+import urls/waybackmachine
 
 def get_urls(source):
     global domains
